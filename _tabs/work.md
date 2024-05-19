@@ -21,16 +21,16 @@ order: 3
 
 **Software Developer (2015)**
 - Built smart city products using web technologies like Django, PostgreSQL, RabbitMQ, and Celery.
-- Integrated route planners for logistics and multimodal transport using open-source technology ([OSRM](http://project-osrm.org/) and [OpenTripPlanner](https://www.opentripplanner.org/)).
+- Integrated route planners for logistics and multimodal transport using open-source technology ([OSRM](https://project-osrm.org/) and [OpenTripPlanner](https://www.opentripplanner.org/)).
 - Set up infrastructure for data sharing in Porto using [FIWARE](https://www.fiware.org/) and adapted products to comply with FIWARE open standards and data models using Python.
 
 
 ### Instituto Pedro Nunes (IPN)
 **Software Developer (2011 - 2015)**
-- Built smart city products using web technologies like Django, PostgreSQL, RabbitMQ, and Celery.
-- Integrated route planners for logistics and multimodal transport using open-source technology ([OSRM](http://project-osrm.org/) and [OpenTripPlanner](https://www.opentripplanner.org/)).
-- Set up infrastructure for data sharing in Porto using [FIWARE](https://www.fiware.org/) and adapted products to comply with FIWARE open standards and data models using Python.
-
+- Created a product (mobile app for Android) for 2+ transit agencies with Augmented Reality and a custom route planner;
+- Developed a SaaS product (web platform) for transport data with 12+ REST APIs, open data, multimodal route planning services and multimodal data ingestion;
+- Mentored 10+ third-party startups and SMEs to use FIWARE to accelerate product development in [SOUL-FI](https://www.f6s.com/fiware-soul-fi/about);
+- Customised a web platform using [FIWARE](https://www.fiware.org/) and [CKAN](https://ckan.org/) for Lisbon and built mechanisms for data collection, transformation and sharing;
 ---
 
 ## Volunteer Work (active)
