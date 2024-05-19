@@ -8,6 +8,14 @@ order: 3
 
 ## Professional Experience
 
+My track record speaks for itself; I have secured over 20 grants to fund projects that have brought new technologies to life. My proficiency in Python and Django, coupled with my understanding of cloud computing, Internet of Things, and Geographic Information Systems, has allowed me to cater to diverse customer needs. The systems developed are robust and dependable, serving as the backbone of the daily operations of more than 12 cities.
+
+I have significantly grown [Ubiwhere](https://ubiwhere.com/)'s impact on the smart city market. I have spearheaded initiatives that promote the development of connected city infrastructure, leading to the growth of strategic partnerships that have amplified our ideas and solutions, reaching a wider audience.</p>
+
+Working with groups like [AIOTI](https://aioti.eu/), [BDVA](https://www.bdva.eu/), [ETSI](https://www.etsi.org/), and [FIWARE](https://www.fiware.org/), I have pushed for technology that improves our quality of life, since I believe in tech that serves a purpose and enhances urban living.
+
+---
+
 ### [Ubiwhere](https://ubiwhere.com/)
 **Head of Technical Communication (2023 - present)**
 - Drove industry engagement, positioning Ubiwhere as a leader through 20+ keynotes and panels, enhancing brand visibility and winning awards.
@@ -35,11 +43,11 @@ order: 3
 
 ## Volunteer Work (active)
 
-### [Apps for Good](https://appsforgood.org.pt/) Expert
+### [Apps for Good Expert](https://appsforgood.org.pt/)
 - Guided young developers beyond the traditional app development cycle with expertise in business models, ideation, pitching, technical and data feasibility.
 - Cultivated potential and ignited creative sparks with product thinking, transforming innovation into solutions with lasting societal impact.
 
-### [World Data League](https://www.worlddataleague.com/) Mentor
+### [World Data League Mentor](https://www.worlddataleague.com/)
 
 - Guided teams solving problems with real-world scenarios in a global competition, with expertise in data analysis, data visualization, and storytelling.
 - Mentored young data scientists to navigate complex datasets and create agile products, leading two teams to reach the finals and one team to secure a win.
