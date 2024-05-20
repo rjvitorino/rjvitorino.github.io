@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://www.ricardovitorino.com"
 
 github:
-  username: rjfv # change to your github username
+  username: rjvitorino # change to your github username
 
 twitter:
   username: rjvitorino # change to your twitter username
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/rjvitorino # change to your twitter homepage
-    - https://github.com/rjfv # change to your github homepage
+    - https://github.com/rjvitorino # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/rjvitorino
@@ -93,7 +93,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://raw.githubusercontent.com/rjfv/rjfv.github.io/main'
+img_cdn: 'https://raw.githubusercontent.com/rjvitorino/rjvitorino.github.io/main'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/images/avatar.jpeg'
