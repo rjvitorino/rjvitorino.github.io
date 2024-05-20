@@ -14,6 +14,8 @@ I have significantly grown [Ubiwhere](https://ubiwhere.com/)'s impact on the sma
 
 Working with groups like [AIOTI](https://aioti.eu/), [BDVA](https://www.bdva.eu/), [ETSI](https://www.etsi.org/), and [FIWARE](https://www.fiware.org/), I have pushed for technology that improves our quality of life, since I believe in tech that serves a purpose and enhances urban living.
 
+More details are available on my [LinkedIn](https://www.linkedin.com/in/rjvitorino/), feel free to connect!
+
 ---
 
 ### [Ubiwhere](https://ubiwhere.com/)
@@ -39,6 +41,7 @@ Working with groups like [AIOTI](https://aioti.eu/), [BDVA](https://www.bdva.eu/
 - Developed a SaaS product (web platform) for transport data with 12+ REST APIs, open data, multimodal route planning services and multimodal data ingestion;
 - Mentored 10+ third-party startups and SMEs to use FIWARE to accelerate product development in [SOUL-FI](https://www.f6s.com/fiware-soul-fi/about);
 - Customised a web platform using [FIWARE](https://www.fiware.org/) and [CKAN](https://ckan.org/) for Lisbon and built mechanisms for data collection, transformation and sharing;
+
 ---
 
 ## Volunteer Work (active)
