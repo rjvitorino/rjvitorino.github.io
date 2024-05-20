@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I help teams excel by blending strategic product management with agile methods and data insights to transform user experiences.
+I drive team excellence by integrating strategic product management, agile methodologies, and data insights to transform user experiences.
 
-Would you like to connect to create meaningful solutions?
+**Ready to create impactful solutions together?**
 
-Please get in touch at [hello@ricardovitorino.com](mailto:hello@ricardovitorino.com) or message me on [LinkedIn](https://www.linkedin.com/in/rjvitorino/).
+Connect with me at [hello@ricardovitorino.com](mailto:hello@ricardovitorino.com) or message me on [LinkedIn](https://www.linkedin.com/in/rjvitorino/).
 
