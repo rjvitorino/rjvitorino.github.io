@@ -3,7 +3,6 @@ layout: page
 title: Work
 icon: fas fa-list-check
 order: 3
-
 ---
 
 ## Professional Experience
@@ -35,7 +34,7 @@ More details are available on my [LinkedIn](https://www.linkedin.com/in/rjvitori
 - Set up infrastructure for data sharing in Porto using [FIWARE](https://www.fiware.org/) and adapted products to comply with FIWARE open standards and data models using Python.
 
 
-### Instituto Pedro Nunes (IPN)
+### [Instituto Pedro Nunes (IPN)](https://ipn.pt/laboratorio/LIS)
 **Software Developer (2011 - 2015)**
 - Created a product (mobile app for Android) for 2+ transit agencies with Augmented Reality and a custom route planner;
 - Developed a SaaS product (web platform) for transport data with 12+ REST APIs, open data, multimodal route planning services and multimodal data ingestion;
