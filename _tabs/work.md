@@ -52,14 +52,19 @@ More details are available on my [LinkedIn](https://www.linkedin.com/in/rjvitori
 
 ## Volunteer Work (active)
 
+### [Habitação Transparente](https://habitacao-transparente.dssg.pt/)
+- Currently leading the communication strategy for an open data project to improve housing in Portugal, enabling citizens to compare and understand their housing situations better.
+
+### [The Impostor PM](https://www.linkedin.com/company/the-impostor-pm/)
+- Currently managing the community of Product Managers in Coimbra and organising bi-monthly meetups to share experiences, foster collaboration, and strengthen the local PM network.
+
 ### [Apps for Good Expert](https://appsforgood.org.pt/)
-- Guided young developers beyond the traditional app development cycle with expertise in business models, ideation, pitching, technical and data feasibility.
-- Cultivated potential and ignited creative sparks with product thinking, transforming innovation into solutions with lasting societal impact.
+- Guiding young developers beyond the traditional app development cycle with expertise in business models, ideation, pitching, technical and data feasibility.
+- Cultivating potential and igniting creative sparks with product thinking, transforming innovation into solutions with lasting societal impact.
 
-### [World Data League Mentor](https://www.worlddataleague.com/)
-
-- Guided teams solving problems with real-world scenarios in a global competition, with expertise in data analysis, data visualization, and storytelling.
-- Mentored young data scientists to navigate complex datasets and create agile products, leading two teams to reach the finals and one team to secure a win.
+### [World Data League](https://www.worlddataleague.com/) and [Hackacity](https://hackacity.eu/)
+- Mentored teams solving real-world problems with experience in data analysis, visualisation, and storytelling.
+- Empowering teams to navigate complex datasets and create impactful products, leading multiple teams to the finals and securing wins! 🏆 
 
 ---
 
