@@ -7,26 +7,33 @@ order: 3
 
 ## Professional Experience
 
-My track record speaks for itself; I have secured over 20 grants to fund projects that have brought new technologies to life. My proficiency in Python and Django, coupled with my understanding of cloud computing, Internet of Things, and Geographic Information Systems, has allowed me to cater to diverse customer needs. The systems developed are robust and dependable, serving as the backbone of the daily operations of more than 12 cities.
+My track record speaks for itself; I have secured over 20 grants to fund projects that have brought new technologies to life. My proficiency in Python and Django, coupled with my understanding of cloud computing, the Internet of Things, and Geographic Information Systems, has allowed me to cater to diverse customer needs. The systems I have developed are robust and dependable, serving as the backbone of the daily operations of more than 12 cities.
 
-I have significantly grown [Ubiwhere](https://ubiwhere.com/)'s impact on the smart city market. I have spearheaded initiatives that promote the development of connected city infrastructure, leading to the growth of strategic partnerships that have amplified our ideas and solutions, reaching a wider audience.</p>
+I am currently working as a Product Manager at [Untile](https://untile.pt/), where I lead the development of innovative software solutions. Previously, I significantly grew [Ubiwhere](https://ubiwhere.com/)'s impact on the smart city market by spearheading initiatives that promote connected city infrastructure and strategic partnerships, amplifying ideas and solutions to a wider audience.
 
 Working with groups like [AIOTI](https://aioti.eu/), [BDVA](https://www.bdva.eu/), [ETSI](https://www.etsi.org/), and [FIWARE](https://www.fiware.org/), I have pushed for technology that improves our quality of life, since I believe in tech that serves a purpose and enhances urban living.
+
 
 More details are available on my [LinkedIn](https://www.linkedin.com/in/rjvitorino/), feel free to connect!
 
 ---
+### [Untile](https://untile.pt/)
+**Senior Product Manager (2024 - Present)**
+- Leading developing and implementing innovative software solutions tailored to client needs.
+- Collaborating with cross-functional teams to enhance product offerings and drive market growth.
+- Overseeing project lifecycles from conception to deployment, ensuring timely and successful delivery.
+
 
 ### [Ubiwhere](https://ubiwhere.com/)
-**Head of Technical Communication (2023 - present)**
+**Head of Technical Communication (2023 - 2024)**
 - Drove industry engagement, positioning Ubiwhere as a leader through 20+ keynotes and panels, enhancing brand visibility and winning awards.
-- Orchestrated workshops and seminars, fostering strategic partnerships that increased prospect customers.
+- Orchestrated workshops and seminars, fostering strategic partnerships that increased prospective customers.
 - Integrated product thinking into core operations, boosting delivery efficiency and increasing proposal win rates.
 
 **Product Manager (2015 - 2023)**
 - Directed the development and launch of the Urban Platform, deployed in 12+ cities, winning three international awards.
 - Secured 20+ grants, contributing to significant community impact through smart city initiatives.
-- Implemented agile methodologies and fostered product thinking mindset, enhancing team productivity.
+- Implemented agile methodologies and fostered the product-thinking mindset, enhancing team productivity.
 
 **Software Developer (2015)**
 - Built smart city products using web technologies like Django, PostgreSQL, RabbitMQ, and Celery.
